@@ -88,9 +88,17 @@ The objective of this project was to build a model for Film Junky Union, a commu
 - **Model Training and Performance Evaluation**:
   - Gained experience in training multiple models and optimizing their hyperparameters.
   - Developed a deeper understanding of F1 score as a balanced metric for model performance, especially in cases of class imbalance.
+- **BERT for Embeddings**:
+  - Applied **BERT** (Bidirectional Encoder Representations from Transformers) to transform text data into embeddings. This provided a robust approach to handle context and semantics in text, enhancing model performance for more accurate sentiment detection.
 - **Comparing Models and Techniques**:
   - Understood the trade-offs between simpler models like logistic regression and more complex boosting models in terms of accuracy and computational requirements.
-- **Real-World Model Testing**:
-  - Validated the model’s ability to generalize by testing it on custom-written reviews, ensuring practical applicability.
+- **Hyperparameter Tuning and Model Optimization**:
+  - Improved skills in optimizing model performance through grid search and cross-validation, effectively balancing model accuracy and computational efficiency.
+
+- **Managing Imbalanced Datasets**:
+  - Gained insights into handling imbalanced classes, ensuring that the models do not develop biases towards the majority class and achieve reliable results across both positive and negative reviews.
+
+- **Real-World Model Application and Testing**:
+  - Practically tested model robustness by classifying custom-written reviews and ensuring that the trained models generalize well to unseen data, thereby validating the model’s performance beyond the original dataset.
 
 [back to top](#film-junky-union---sentiment-analysis-project)
