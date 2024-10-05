@@ -107,7 +107,7 @@ The objective of this project was to build a model for Film Junky Union, a commu
 ## How to use this repository
 
 1. **Clone the repository** <br>
-[git clone https://github.com/realdanizilla/Rusty-Bargain.git](https://github.com/realdanizilla/Junky-Union.git)
+[git clone https://github.com/realdanizilla/Junky-Union.git](https://github.com/realdanizilla/Junky-Union.git)
 2. **Install Dependencies:**  
 Navigate to the repository directory and install required Python packages. <Br>
 (cd Junky-Union pip install -r requirements.txt)
