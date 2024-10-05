@@ -5,7 +5,8 @@
   - [Project Structure and Steps](#project-structure-and-steps)
   - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
-  - [What I Have Learned From This Project (Skills and Competences)](#what-i-have-learned-from-this-project-skills-and-competences)
+  - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
+  - [How to use this repository](#how-to-use-this-repository)
 
 ## Project Objective
 The objective of this project was to build a model for Film Junky Union, a community of classic film enthusiasts, to automatically detect negative movie reviews. Using a labeled IMDB dataset, the aim was to train a machine learning model capable of classifying reviews as positive or negative, with a target F1 score of at least **0.85**.
@@ -82,7 +83,7 @@ The objective of this project was to build a model for Film Junky Union, a commu
 
 [back to top](#film-junky-union---sentiment-analysis-project)
 
-## What I Have Learned From This Project (Skills and Competences)
+## What I Have Learned From This Project
 - **Text Preprocessing and Feature Engineering**:
   - Techniques such as tokenization, stemming, and stop-word removal are crucial for converting raw text into a usable format for model training.
 - **Model Training and Performance Evaluation**:
@@ -100,5 +101,23 @@ The objective of this project was to build a model for Film Junky Union, a commu
 
 - **Real-World Model Application and Testing**:
   - Practically tested model robustness by classifying custom-written reviews and ensuring that the trained models generalize well to unseen data, thereby validating the model’s performance beyond the original dataset.
+
+[back to top](#film-junky-union---sentiment-analysis-project)
+
+## How to use this repository
+
+1. **Clone the repository** <br>
+[git clone https://github.com/realdanizilla/Rusty-Bargain.git](https://github.com/realdanizilla/Junky-Union.git)
+2. **Install Dependencies:**  
+Navigate to the repository directory and install required Python packages. <Br>
+(cd Junky-Union pip install -r requirements.txt)
+
+
+3. **Run the Notebook**  
+Open the `.ipynb` notebook to see text preprocessing, model training, and sentiment analysis.
+
+
+4. **Experiment with Models**  
+You can test different text preprocessing techniques or modify models to optimize F1 scores.
 
 [back to top](#film-junky-union---sentiment-analysis-project)
